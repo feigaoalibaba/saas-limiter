@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/saas-limiter.iml" filepath="$PROJECT_DIR$/saas-limiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saas-limiter-api/saas-limiter-api.iml" filepath="$PROJECT_DIR$/saas-limiter-api/saas-limiter-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saas-limiter-impl/saas-limiter-impl.iml" filepath="$PROJECT_DIR$/saas-limiter-impl/saas-limiter-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saas-limiter-mgt-api/saas-limiter-mgt-api.iml" filepath="$PROJECT_DIR$/saas-limiter-mgt-api/saas-limiter-mgt-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saas-limiter-mgt-impl/saas-limiter-mgt-impl.iml" filepath="$PROJECT_DIR$/saas-limiter-mgt-impl/saas-limiter-mgt-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saas-limiter-test/saas-limiter-test.iml" filepath="$PROJECT_DIR$/saas-limiter-test/saas-limiter-test.iml" />
+    </modules>
+  </component>
+</project>
