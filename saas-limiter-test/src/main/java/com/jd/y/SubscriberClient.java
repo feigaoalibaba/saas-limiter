@@ -12,7 +12,7 @@ import com.jd.y.saas.saaslimiter.util.RedisClient;
 
 
 /**
- *
+ * 非基于spring容器测试
  * @author gaofei12
  * @Desc
  * @date 2018/1/19
